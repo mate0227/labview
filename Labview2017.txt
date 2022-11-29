@@ -1,0 +1,6 @@
+Elérhetőségi link: http://shrek.unideb.hu/~szikraadam/labview/
+
+Feltelepítés utáni az aktiváláshoz szükséges információk:
+
+email: szikra.adam@zimbra.inf.unideb.hu
+Jelszó: DEIKlabview2017
